@@ -1,11 +1,21 @@
 ### Hi there 👋
-I am Philip Okiokio, a software engineer, interested in building, scalable, efficient solutions. On other days I am a writer who finds inspiration in the weirdest of places.
+I am Kaizen. This is the name you would see in slack if we get to work together. What is Kaizen? 
+Kaizen is a Japanese word for constant self-improvement.  This is a word that I carry and imprint into my everyday life, tasks and career. 
+
+I am a software engineer who currently focuses on server-side application development. I have been lucky to build products that are thriving, that cut across Earth Science, GIS project portfolio page, and Marketing and I always looking to explore more areas and fields. 
+
+s. 
+
+I am a dedicated engineer and I love building products.
 
 ### Tech Stack
 
-Python: (Django Web Framework)
-NodeJs: Express
-MongoDB, Postgresql, GCP and Heroku.
+I have built solely in Python, and a few of its web frameworks like Django, and I currently work with FastAPI, every once in a while I pick up NodeJs or any new language that interests me.
+
+Working and building with FastAPI has been awesome and if I am onboarded to a new project that is language and stack agnostic I will love to build with FastAPI.
+
+I have also picked up a few skills along the way such as continuous integration, continuous deployment, 
+Linux skills, deployment on Ubuntu server
 
 ###  🔭 I’m currently working on 
 
@@ -23,9 +33,6 @@ I am currently learning NodeJs (JavaScript runtime) to build efficient server-si
 I am looking to collaborate on Projects, short Gigs with respect to server-side applications in NodeJs and Python. 
 
 
-🤔 I’m looking for help with 
-
-I am currently looking for a Job, I have over a years experience in building server-side applications. I have in these shortly gathered experience and actively built three products for two startups.
 
 
 ### 📫 How to reach me: ...
