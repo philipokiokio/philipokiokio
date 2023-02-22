@@ -1,12 +1,11 @@
-### Hi there 👋
+### Konnichiwa – こんにちは 👋
 I am Kaizen. This is the name you would see in slack if we get to work together. What is Kaizen? 
 Kaizen is a Japanese word for constant self-improvement.  This is a word that I carry and imprint into my everyday life, tasks and career. 
 
-I am a software engineer who currently focuses on server-side application development. I have been lucky to build products that are thriving, that cut across Earth Science, GIS project portfolio page, and Marketing and I always looking to explore more areas and fields. 
+I am a software engineer focused on designing, building and integatrations of services for the creation of optimal server-side applications. I am a Product focused Engineer, which has led me to archtecting solutions that meet business logic. My name Kaizen is a expression of art that I express in software, the evolutionary nature of software means that I will also pivot software to reflect best practises that I learn. I have worked on various solutions that cut across Earth Science, and Marketing. I am expressive and an advocate for documentation. I am always looking to explore more areas and fields, that are outside the scope of my experience. 
 
-s. 
 
-I am a dedicated engineer and I love building products.
+I always have product ideas and I am building them out.
 
 ### Tech Stack
 
@@ -19,20 +18,17 @@ Linux skills, deployment on Ubuntu server
 
 ###  🔭 I’m currently working on 
 
-I am currently working on "myself, the most important work- Big Sean". But Yeah it is true. 
-
 Currently building Ideas, testing waters and implimenting solutions.
 
 
+### What I  have worked on.
+1. FastAPI SaaS Template [https://github.com/philipokiokio/FastAPI_SAAS_Template].
+2. Mixer Project (Similar to Segment, for customer data segeregation)[https://github.com/philipokiokio/laughing-octo-carnival--APi].
+3. Refferal Project (A developer 2 way system Referal system) [https://github.com/philipokiokio/Roku-API-Service].
+
+
 ### I’m currently learning ...
-I am currently learning NodeJs (JavaScript runtime) to build efficient server-side applications.
-
-
-### 👯 I’m looking to collaborate on 
-
-I am looking to collaborate on Projects, short Gigs with respect to server-side applications in NodeJs and Python. 
-
-
+I am currently learning DSA.
 
 
 ### 📫 How to reach me: ...
