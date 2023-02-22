@@ -2,7 +2,7 @@
 I am Kaizen. This is the name you would see in slack if we get to work together. What is Kaizen? 
 Kaizen is a Japanese word for constant self-improvement.  This is a word that I carry and imprint into my everyday life, tasks and career. 
 
-I am a software engineer focused on designing, building and integatrations of services for the creation of optimal server-side applications. I am a Product focused Engineer, which has led me to archtecting solutions that meet business logic. My name Kaizen is a expression of art that I express in software, the evolutionary nature of software means that I will also pivot software to reflect best practises that I learn. I have worked on various solutions that cut across Earth Science, and Marketing. I am expressive and an advocate for documentation. I am always looking to explore more areas and fields, that are outside the scope of my experience. 
+I am a software engineer focused on designing, building and integatrating of services for the creation of optimal server-side applications. I am a Product focused Engineer, which has led me to archtecting solutions that meet business logic. My name Kaizen is a expression of art that I express in software, the evolutionary nature of software means that I will also pivot software to reflect best practises that I learn. I have worked on various solutions that cut across Earth Science, and Marketing. I am expressive and an advocate for documentation. I am always looking to explore more areas and fields, that are outside the scope of my experience. 
 
 
 I always have product ideas and I am building them out.
